@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello, I'm Sai Mukesh !</h1>
+<h1 align="center">👋 Hello, I'm Sai Mukesh!</h1>
 <p align="center">
 🚀 AI & Cybersecurity | 💻 Ethical Hacking | 🌍 Cloud & IoT
 </p>
@@ -10,6 +10,13 @@
 - 🔭 Building a **Cloud-based IoT Water Quality Monitoring Platform**  
 - 🛡️ Researching **Intrusion Detection & Prevention Systems (IDS/IPS)**  
 - ⚡ Organizer of **National Level Project Competitions & Tech Symposiums**  
+
+---
+
+### 🔥 **Fun Fact**  
+🎯 *“Hack the planet ethically & keep learning!”*  
+
+![Hacker GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 ---
 
@@ -30,29 +37,36 @@
 
 ---
 
-### 📊 **LeetCode & CodeChef Stats**
+### 🏆 **LeetCode & CodeChef Stats**
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/your_leetcode_username?theme=dark&font=JetBrains%20Mono" />
+  <img src="https://leetcard.jacoblin.cool/saimukeshr?theme=dark&font=JetBrains%20Mono" />
   <br>
-  <img src="https://cp-logo.vercel.app/codechef/your_codechef_username" />
+  <img src="https://cp-logo.vercel.app/codechef/saimukesh_17" />
 </p>
 
 ---
 
 ### 📈 **GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rsaimukesh&theme=tokyonight" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rsaimukesh&show_icons=true&theme=tokyonight" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rsaimukesh&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
 ### ⚡ **GitHub Activity**
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=your-github-username&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rsaimukesh&theme=tokyonight" />
+</p>
+
+---
+
+### 🎮 **Just for Fun**
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" />
 </p>
 
 ---
@@ -62,6 +76,13 @@
   <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-ff5722?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
+</p>
+
+---
+
+### 🎭 **Random Dev Meme**
+<p align="center">
+  <img src="https://random-memer.herokuapp.com/" width="400px"/>
 </p>
 
 ---
