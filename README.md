@@ -82,7 +82,7 @@
 
 ### 🎭 **Random Dev Meme**
 <p align="center">
-  <img src="https://i.redd.it/j7shy4j6b1v41.jpg" width="400px"/>
+  <img src="https://meme-api.com/gimme/programmingmemes" width="400px"/>
 </p>
 
 
