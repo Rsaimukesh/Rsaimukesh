@@ -45,6 +45,14 @@
 </p>
 
 ---
+### 🔥 **Cybersecurity & TryHackMe Stats**
+<p align="center">
+  <a href="https://tryhackme.com/p/CYBERIAN">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/CYBERIAN.png" alt="TryHackMe">
+  </a>
+</p>
+
+---
 
 ### 📈 **GitHub Stats**
 <p align="center">
@@ -71,20 +79,21 @@
 
 ---
 
+### 🔥 **TryHackMe Stats**
+<p align="center">
+  <a href="https://tryhackme.com/p/CYBERIAN">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/CYBERIAN.png" alt="TryHackMe">
+  </a>
+</p>
+
+---
+
 ### 📬 **Let's Connect!**
 <p align="center">
   <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-ff5722?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
 </p>
-
----
-
-### 🎭 **Random Dev Meme**
-<p align="center">
-  <img src="https://meme-api.com/gimme/programmingmemes" width="400px"/>
-</p>
-
 
 ---
 
