@@ -82,8 +82,9 @@
 
 ### 🎭 **Random Dev Meme**
 <p align="center">
-  <img src="https://random-memer.herokuapp.com/" width="400px"/>
+  <img src="https://i.redd.it/j7shy4j6b1v41.jpg" width="400px"/>
 </p>
+
 
 ---
 
