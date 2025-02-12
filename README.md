@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hello, I'm Sai Mukesh 
+🚀 Tech Enthusiast | 💻 AI & Cybersecurity | 🌍 Cloud & IoT  
 
-<!--
-**Rsaimukesh/Rsaimukesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🔥 About Me  
+- 🎓 Passionate about **AI, Cybersecurity, and Cloud Computing**  
+- 💡 Currently working on a **real-time IoT-based water quality monitoring platform**  
+- 🔭 Exploring **Intrusion Detection Systems (IDS) and Ethical Hacking Tools**  
+- ✨ Organized a **National Level Project Competition** and managed **₹8 lakh funds** as an AICTE student rep  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack  
+- 💻 **Languages**: C, Python, Java, SQL  
+- ☁️ **Cloud & IoT**: Firebase, ThingSpeak, Cloud Integration  
+- 🔒 **Security & Ethical Hacking**: IDS, IPS, Kali Linux  
+- 📊 **Databases**: MySQL, SQLite  
+
+---
+
+## 📫 Connect With Me  
+- 📧 Email: [Your Email]  
+- 💼 LinkedIn: [Your LinkedIn]  
+- 🌐 Website: [Your Portfolio or GitHub Page]  
+
+🚀 *Always learning, always building!*  
