@@ -10,7 +10,7 @@
 ---
 
 ### 🧠 About Me
-- 🎓 Final Year Student | Focused on **Cybersecurity, Ethical Hacking & AI**
+- 🎓 Pre-Final Year Student | Focused on **Cybersecurity, Ethical Hacking & AI**
 - 🌐 Building a **Cloud-Based IoT Water Quality Monitoring Platform**
 - 🔍 Researcher in **Intrusion Detection & Prevention Systems (IDS/IPS)**
 - 🎯 Organizer of **National Level Project Competitions & Tech Symposiums**
