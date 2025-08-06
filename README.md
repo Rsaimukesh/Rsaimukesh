@@ -84,8 +84,8 @@
 ### ☕ Let's Connect!
 <p align="center">
   <a href="mailto:saimukeshr.cs2023@citchennai.net"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/saimukesh"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://tryhackme.com/p/CYBERIAN"><img src="https://img.shields.io/badge/TryHackMe-red?style=for-the-badge&logo=tryhackme&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/sai-mukesh-29b5a1249/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://tryhackme.com/p/cyberian404"><img src="https://img.shields.io/badge/TryHackMe-red?style=for-the-badge&logo=tryhackme&logoColor=white"/></a>
 </p>
 
 ---
