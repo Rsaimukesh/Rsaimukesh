@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hello, I'm Sai! </h1>
 <p align="center">
-🚀 AI & Cybersecurity | 💻 Ethical Hacking | 🌍 Cloud & IoT Enthusiast
+🚀 Cybersecurity | 💻 Ethical Hacking | 🌍 Cloud & IoT Enthusiast
 </p>
 
 <p align="center">
